@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./resources/ts",
+        "paths": {
+            "@/*": ["*"]
+        },
+        "jsx": "react-jsx",
+    }
+}
