@@ -1,4 +1,4 @@
-# laravel-react
+# laravel-react-env-template
 
 This repository is a template repository of backend Laravel and frontend React projects.
 
